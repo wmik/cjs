@@ -1,6 +1,6 @@
 {
-  "name": "x6",
-  "version": "0.0.0",
+  "name": "cjs",
+  "version": "0.0.0-development",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -19,9 +19,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wmik/x6.git"
+    "url": "https://github.com/wmik/cjs.git"
   },
-  "bugs": "https://github.com/wmik/x6/issues",
+  "bugs": "https://github.com/wmik/cjs/issues",
   "xo": {
     "extends": "xo-wmik"
   },
